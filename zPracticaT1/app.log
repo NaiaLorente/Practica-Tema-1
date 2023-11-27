@@ -1,0 +1,9 @@
+19:10:31.713 [AWT-EventQueue-0] INFO  zPracticaT.MyApp - La aplicación se ha iniciado.
+19:11:01.688 [AWT-EventQueue-0] DEBUG zPracticaT.MyApp - Se guardó el archivo como: guard.txt
+19:11:24.937 [AWT-EventQueue-0] DEBUG zPracticaT.MyApp - Se abrió el archivo: guard.txt
+19:11:36.931 [AWT-EventQueue-0] DEBUG zPracticaT.MyApp - Búsqueda de patrón completada: quiera
+19:11:46.255 [AWT-EventQueue-0] DEBUG zPracticaT.MyApp - Se formateó el número: 44,4
+19:11:51.485 [AWT-EventQueue-0] DEBUG zPracticaT.MyApp - Se generó un número aleatorio: 54
+19:12:05.999 [AWT-EventQueue-0] DEBUG zPracticaT.MyApp - Fichero zip test.zip acabado correctamente.
+19:15:46.989 [main] INFO  zPracticaT.MyApp - La aplicación se ha iniciado.
+19:15:47.044 [main] DEBUG zPracticaT.MyApp - Búsqueda de patrón completada: Este
